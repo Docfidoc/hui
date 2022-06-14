@@ -1,0 +1,44 @@
+C:\Users\Koctr\source\repos\PracticaVariant\bin\Debug\PracticaVariant.exe.config
+C:\Users\Koctr\source\repos\PracticaVariant\bin\Debug\PracticaVariant.exe
+C:\Users\Koctr\source\repos\PracticaVariant\bin\Debug\PracticaVariant.pdb
+C:\Users\Koctr\source\repos\PracticaVariant\obj\Debug\PracticaVariant.csproj.AssemblyReference.cache
+C:\Users\Koctr\source\repos\PracticaVariant\obj\Debug\PracticaVariant.About.resources
+C:\Users\Koctr\source\repos\PracticaVariant\obj\Debug\PracticaVariant.MainForm.resources
+C:\Users\Koctr\source\repos\PracticaVariant\obj\Debug\PracticaVariant.Properties.Resources.resources
+C:\Users\Koctr\source\repos\PracticaVariant\obj\Debug\PracticaVariant.csproj.GenerateResource.cache
+C:\Users\Koctr\source\repos\PracticaVariant\obj\Debug\PracticaVariant.csproj.CoreCompileInputs.cache
+C:\Users\Koctr\source\repos\PracticaVariant\obj\Debug\PracticaVariant.exe
+C:\Users\Koctr\source\repos\PracticaVariant\obj\Debug\PracticaVariant.pdb
+C:\Users\Koctr\source\repos\PracticaVariant\obj\Debug\PracticaVariant.Lab2.resources
+C:\Users\Koctr\source\repos\PracticaVariant\obj\Debug\PracticaVariant.Lab1.resources
+C:\Users\Koctr\source\repos\PracticaVariant\obj\Debug\PracticaVariant.Lab3.resources
+C:\Users\Koctr\Desktop\PracticaVariant\bin\Debug\PracticaVariant.exe.config
+C:\Users\Koctr\Desktop\PracticaVariant\bin\Debug\PracticaVariant.exe
+C:\Users\Koctr\Desktop\PracticaVariant\bin\Debug\PracticaVariant.pdb
+C:\Users\Koctr\Desktop\PracticaVariant\obj\Debug\PracticaVariant.csproj.AssemblyReference.cache
+C:\Users\Koctr\Desktop\PracticaVariant\obj\Debug\PracticaVariant.About.resources
+C:\Users\Koctr\Desktop\PracticaVariant\obj\Debug\PracticaVariant.Lab2.resources
+C:\Users\Koctr\Desktop\PracticaVariant\obj\Debug\PracticaVariant.Lab1.resources
+C:\Users\Koctr\Desktop\PracticaVariant\obj\Debug\PracticaVariant.Lab3.resources
+C:\Users\Koctr\Desktop\PracticaVariant\obj\Debug\PracticaVariant.Lab4.resources
+C:\Users\Koctr\Desktop\PracticaVariant\obj\Debug\PracticaVariant.MainForm.resources
+C:\Users\Koctr\Desktop\PracticaVariant\obj\Debug\PracticaVariant.Properties.Resources.resources
+C:\Users\Koctr\Desktop\PracticaVariant\obj\Debug\PracticaVariant.csproj.GenerateResource.cache
+C:\Users\Koctr\Desktop\PracticaVariant\obj\Debug\PracticaVariant.csproj.CoreCompileInputs.cache
+C:\Users\Koctr\Desktop\PracticaVariant\obj\Debug\PracticaVariant.exe
+C:\Users\Koctr\Desktop\PracticaVariant\obj\Debug\PracticaVariant.pdb
+C:\Users\Koctr\Desktop\Сайтиев К.А\bin\Debug\PracticaVariant.exe.config
+C:\Users\Koctr\Desktop\Сайтиев К.А\bin\Debug\PracticaVariant.exe
+C:\Users\Koctr\Desktop\Сайтиев К.А\bin\Debug\PracticaVariant.pdb
+C:\Users\Koctr\Desktop\Сайтиев К.А\obj\Debug\PracticaVariant.csproj.AssemblyReference.cache
+C:\Users\Koctr\Desktop\Сайтиев К.А\obj\Debug\PracticaVariant.About.resources
+C:\Users\Koctr\Desktop\Сайтиев К.А\obj\Debug\PracticaVariant.Lab2.resources
+C:\Users\Koctr\Desktop\Сайтиев К.А\obj\Debug\PracticaVariant.Lab1.resources
+C:\Users\Koctr\Desktop\Сайтиев К.А\obj\Debug\PracticaVariant.Lab3.resources
+C:\Users\Koctr\Desktop\Сайтиев К.А\obj\Debug\PracticaVariant.Lab4.resources
+C:\Users\Koctr\Desktop\Сайтиев К.А\obj\Debug\PracticaVariant.MainForm.resources
+C:\Users\Koctr\Desktop\Сайтиев К.А\obj\Debug\PracticaVariant.Properties.Resources.resources
+C:\Users\Koctr\Desktop\Сайтиев К.А\obj\Debug\PracticaVariant.csproj.GenerateResource.cache
+C:\Users\Koctr\Desktop\Сайтиев К.А\obj\Debug\PracticaVariant.csproj.CoreCompileInputs.cache
+C:\Users\Koctr\Desktop\Сайтиев К.А\obj\Debug\PracticaVariant.exe
+C:\Users\Koctr\Desktop\Сайтиев К.А\obj\Debug\PracticaVariant.pdb
